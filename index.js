@@ -1,6 +1,6 @@
 var tokens = require ("./tokens.js"),
 configs = {
-  token: proccess.env.TOKEN,
+  token: process.env.TOKEN,
   prefix: "#",
   guildID: '635142447281995784',
   userID: '487573710887321600',
